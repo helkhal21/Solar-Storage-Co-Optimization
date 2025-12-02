@@ -3,6 +3,11 @@
 ## Setup
 
 git clone git@github.com:mcaballero305/Solar-Storage-Co-Optimization
+cd Solar-Storage-Co-Optimization
+
+python -m venv .venv
+.\.venv\Scripts\Activate.ps1
+
 python -m pip install --upgrade pip setuptools wheel
 python -m pip install -e .
 

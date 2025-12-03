@@ -1,4 +1,4 @@
-olar Storage Co-Optimization
+Solar Storage Co-Optimization
 
 ## Credentials Required
 
